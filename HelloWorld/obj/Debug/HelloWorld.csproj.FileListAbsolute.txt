@@ -1,0 +1,11 @@
+E:\Anuj\Console\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Anuj\Console\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Anuj\Console\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Anuj\Console\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Anuj\Console\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Anuj\Console\ConsoleApplication\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Anuj\Console\ConsoleApplication\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Anuj\Console\ConsoleApplication\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Anuj\Console\ConsoleApplication\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Anuj\Console\ConsoleApplication\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Anuj\Console\ConsoleApplication\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

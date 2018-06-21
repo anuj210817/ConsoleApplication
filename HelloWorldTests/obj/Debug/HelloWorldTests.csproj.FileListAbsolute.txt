@@ -1,0 +1,16 @@
+E:\Anuj\Console\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+E:\Anuj\Console\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+E:\Anuj\Console\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+E:\Anuj\Console\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Anuj\Console\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+E:\Anuj\Console\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+E:\Anuj\Console\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+E:\Anuj\Console\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\bin\Debug\HelloWorld.exe
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\bin\Debug\HelloWorld.pdb
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+E:\Anuj\Console\ConsoleApplication\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
